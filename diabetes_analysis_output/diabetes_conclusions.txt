@@ -1,0 +1,17 @@
+Resumen del modelo de regresión lineal sobre dataset Diabetes
+
+Intercepto: 153.7365
+MAE=42.794, RMSE=53.853, R2=0.453
+
+Top coeficientes (abs):
+feature  coefficient
+     s1   -44.448856
+     s5    35.161195
+    bmi    25.607121
+     s2    24.640954
+     bp    16.828872
+     s4    13.138784
+    sex   -11.511809
+     s3     7.676978
+     s6     2.351364
+    age     1.753758
